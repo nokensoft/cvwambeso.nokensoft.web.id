@@ -15,12 +15,12 @@ Hal-hal yang perlu dikerjakan
 <ol>
     <li>✅ Logo website</li>
     <li>✅ Logo favicon</li>
-    <li>⌛ Navigasi ke setiap section </li>
-    <li>⌛ Banner slides </li>
-    <li>⌛ About us </li>
-    <li>⌛ Our Vision </li>
-    <li>⌛ Our Mission </li>
-    <li>⌛ Product and services </li>
+    <li>✅ Navigasi ke setiap section </li>
+    <li>✅ Banner slides </li>
+    <li>✅ About us </li>
+    <li>✅ Our Vision </li>
+    <li>✅ Our Mission </li>
+    <li>✅ Product and services </li>
     <li>⌛ Our Team </li>
     <li>⌛ Contact </li>
     <li>⌛ Footer </li>
