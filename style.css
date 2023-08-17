@@ -377,7 +377,7 @@ button:focus {
   border-radius: 3px;
   font-weight: 500;
   font-size: 16px;
-  color: #ebebeb;
+  color: #46A9FE;
   padding: 10px 30px;
   outline: none;
   margin: 0 10px 20px;
@@ -582,8 +582,8 @@ blockquote p {
   border-color: #ed3600;
 }
 .readon.orange-btn.transparent:hover {
-  color: #ebebeb;
-  background: #ebebeb;
+  color: #46A9FE;
+  background: #46A9FE;
   border-color: #ffffff;
 }
 .readon.blue-btn {
@@ -1366,10 +1366,10 @@ ul.listing-style.modify li:before {
   color: #ffffff;
 }
 .sec-title3 .title.black-color {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .sec-title3 .title.new-title {
-  color: #ebebeb;
+  color: #46A9FE;
   line-height: 1.2;
   font-weight: 700;
 }
@@ -1410,7 +1410,7 @@ ul.listing-style.modify li:before {
   font-size: 36px;
   line-height: 46px;
   font-weight: 700;
-  color: #ebebeb;
+  color: #46A9FE;
   position: relative;
   padding: 0px 0px 20px 0px;
 }
@@ -3282,7 +3282,7 @@ ul.listing-style.modify li:before {
 .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .categore-menu .search-widget .search-wrap button i:before {
   font-size: 18px;
   font-weight: 600;
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .rs-menu-area .main-menu .rs-menu ul.nav-menu li {
   margin-right: 35px;
@@ -3363,7 +3363,7 @@ ul.listing-style.modify li:before {
 .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .expand-btn-inner .user-icon {
   margin-left: 0;
   padding-left: 25px;
-  border-left: 1px solid #ebebeb;
+  border-left: 1px solid #46A9FE;
 }
 .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .expand-btn-inner .user-icon a {
   font-size: 18px;
@@ -4440,7 +4440,7 @@ body .modal-backdrop {
   font-size: 48px;
   line-height: 62px;
   font-weight: 800;
-  color: #ebebeb;
+  color: #46A9FE;
   margin-bottom: 30px;
 }
 .rs-banner.style12 .banner-content .title span {
@@ -5898,11 +5898,11 @@ body .modal-backdrop {
   font-size: 25px;
   line-height: 32px;
   font-weight: 700;
-  color: #ebebeb;
+  color: #46A9FE;
   margin-bottom: 17px;
 }
 .rs-categories.home9-style .categories-items .image-content .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-categories.home9-style .categories-items .image-content .title a:hover {
   color: #46A9FE;
@@ -6096,13 +6096,13 @@ body .modal-backdrop {
   margin: 25px 0px 20px 0px;
 }
 .rs-categories.style2 .categories-items .cate-item .cate-content .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-categories.style2 .categories-items .cate-item .cate-content .title a:hover {
   color: #ff5421;
 }
 .rs-categories.style2 .categories-items .cate-item .cate-content .course-qnty {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-categories.style2 .categories-items .cate-item:hover {
   transform: translateY(-10px);
@@ -6113,11 +6113,11 @@ body .modal-backdrop {
   top: 50%;
   transform: translateY(-50%);
   left: 30px;
-  border: 1px solid #ebebeb;
+  border: 1px solid #46A9FE;
   width: 45px;
   height: 45px;
   border-radius: 50%;
-  color: #ebebeb;
+  color: #46A9FE;
   background: 0 0;
   transition: .4s;
   margin: 0 auto;
@@ -6653,7 +6653,7 @@ body .modal-backdrop {
   margin-bottom: 0;
 }
 .rs-popular-courses.style6 .courses-item .content-part .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-popular-courses.style6 .courses-item .content-part .title a:hover {
   color: #ff5421;
@@ -6926,7 +6926,7 @@ body .modal-backdrop {
   font-size: 22px;
 }
 .rs-popular-courses.main-home .courses-item .courses-grid .content-part .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-popular-courses.main-home .courses-item .courses-grid .content-part .title a:hover {
   color: #ff5421;
@@ -6970,7 +6970,7 @@ body .modal-backdrop {
   font-size: 22px;
 }
 .rs-popular-courses.main-home.home12-style .courses-item .courses-grid .content-part .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-popular-courses.main-home.home12-style .courses-item .courses-grid .content-part .title a:hover {
   color: #0c8b51;
@@ -9677,7 +9677,7 @@ body .modal-backdrop {
   font-size: 20px;
   line-height: 34px;
   font-weight: 500;
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-testimonial.home14-style .testi-item .testi-content .testi-title {
   font-size: 18px;
@@ -10116,7 +10116,7 @@ body .modal-backdrop {
   line-height: 34px;
 }
 .rs-blog.main-home .blog-item .blog-content .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-blog.main-home .blog-item .blog-content .title a:hover {
   color: #ff5421;
@@ -10213,7 +10213,7 @@ body .modal-backdrop {
   font-weight: 700;
 }
 .rs-blog.main-home.modify1 .blog-item .blog-content .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-blog.main-home.modify1 .blog-item .blog-content .title a:hover {
   color: #0c8b51;
@@ -10263,7 +10263,7 @@ body .modal-backdrop {
   line-height: 34px;
 }
 .rs-blog.home9-style .blog-item .blog-content .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-blog.home9-style .blog-item .blog-content .title a:hover {
   color: #46A9FE;
@@ -10353,7 +10353,7 @@ body .modal-backdrop {
   margin-bottom: 6px;
 }
 .rs-blog.home9-style .events-short-top .content-part .title a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-blog.home9-style .events-short-top .content-part .title a:hover {
   color: #46A9FE;
@@ -11796,7 +11796,7 @@ body .modal-backdrop {
   font-size: 22px;
   font-weight: 800;
   letter-spacing: 1px;
-  color: #ebebeb;
+  color: #46A9FE;
   margin: 0px 0px 0px 0px;
 }
 .rs-cta.effects-layer .effects-bg .content-part {
@@ -11806,7 +11806,7 @@ body .modal-backdrop {
   font-size: 24px;
   line-height: 40px;
   font-weight: 800;
-  color: #ebebeb;
+  color: #46A9FE;
   margin-bottom: 13px;
 }
 .rs-cta.effects-layer .effects-bg.apply-bg {
@@ -13228,7 +13228,7 @@ body .modal-backdrop {
 .woocommerce-mini-cart2 .cart-bottom-part .widget-title:before {
   position: absolute;
   content: "\f131";
-  color: #ebebeb;
+  color: #46A9FE;
   left: 50%;
   transform: translateX(-50%);
   bottom: 42px;
@@ -13792,7 +13792,7 @@ body .modal-backdrop {
 --------------------------------------*/
 .contact-page-section .inner-part .title {
   font-size: 36px;
-  color: #ebebeb;
+  color: #46A9FE;
   line-height: 46px;
   font-weight: 700;
   margin-bottom: 14px;
@@ -13872,7 +13872,7 @@ body .modal-backdrop {
 }
 .contact-page-section .rs-contact-box .address-item .address-text .label {
   display: block;
-  color: #ebebeb;
+  color: #46A9FE;
   font-size: 22px;
   font-weight: 600;
   padding-bottom: 10px;
@@ -14595,7 +14595,7 @@ body .modal-backdrop {
   padding: 100px 0 93px;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .widget-title {
-  color: #ebebeb;
+  color: #46A9FE;
   text-transform: capitalize;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .widget-title:before {
@@ -14605,7 +14605,7 @@ body .modal-backdrop {
   color: #333333 !important;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .footer_social li a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .footer_social li a:hover {
   color: #ff5421;
@@ -14614,7 +14614,7 @@ body .modal-backdrop {
   color: #ff5421;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .address-widget li .desc {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .address-widget li .desc a {
   color: #505050;
@@ -14623,7 +14623,7 @@ body .modal-backdrop {
   color: #ff5421;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .site-map li a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-top .site-map li a:hover {
   color: #ff5421;
@@ -14647,16 +14647,16 @@ body .modal-backdrop {
   color: #ff5421;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-bottom .copyright p {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-bottom .copyright a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-bottom .copyright a:hover {
   color: #ff5421;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-bottom .copy-right-menu li a {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.main-home.home14-style .footer-bottom .copy-right-menu li a:hover {
   color: #ff5421;
@@ -14677,7 +14677,7 @@ body .modal-backdrop {
   background: #d0f4e4;
 }
 .rs-footer.home9-style.home12-style .footer-top .widget-title {
-  color: #ebebeb;
+  color: #46A9FE;
 }
 .rs-footer.home9-style.home12-style .footer-top .widget-title:before {
   background: #0c8b51;
