@@ -29,3 +29,9 @@ Hal-hal yang perlu dikerjakan
     <li>⌛ Setup GitHub repo di hosting/cpanel</li>
     <li>⌛ ...</li>
 </ol>
+
+## MODCKUP DESIGN
+
+v.1
+
+<img src="mockups/mockup-v.1.png">
