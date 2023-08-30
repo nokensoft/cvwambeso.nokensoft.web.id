@@ -14101,7 +14101,7 @@ body .modal-backdrop {
 ------------------------------------*/
 .rs-footer {
   background-color: #273c66;
-  background-image: url(assets/images/bg/footer-bg.png);
+  background-image: url(_TEMPLATES/assets/images/footer-bg03.png);
   background-size: cover;
 }
 .rs-footer .footer-top {
@@ -14373,7 +14373,7 @@ body .modal-backdrop {
   position: absolute;
 }
 .rs-footer.home9-style .footer-top .address-widget li i:before {
-  color: #46A9FE;
+  color: #FF0000;
 }
 .rs-footer.home9-style .footer-top .address-widget li .desc {
   padding-left: 35px;
