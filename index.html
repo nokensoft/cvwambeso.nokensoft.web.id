@@ -111,6 +111,9 @@
                                                     <a href="#contact">Contact</a>
                                                 </li>
 
+                                                <li>
+                                                    <div class="btn" id="google_translate_element"></div>
+                                                </li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
                                     </div> <!-- //.main-menu -->
@@ -300,7 +303,8 @@
                             </div>
                             <div>
                                 <p class="fs-4"> Introducing Papua through the results of diverse natural
-                                    wealth and processed by the MSME community to the international world, as well as being
+                                    wealth and processed by the MSME community to the international world, as well as
+                                    being
                                     a pioneer of services through export activities. </p>
                                 <a class="btn btn-lg btn-link link-primary rounded-0 border-0 fw-bold"
                                     href="#missions">Missions <i class="fa-solid fa-arrow-right ms-2"></i></a>
@@ -554,7 +558,8 @@
                         <i class="fa-solid fa-phone me-2"></i>Contact us
                     </p>
                     <h2 class="fs-1 fw-bold text-primary">We love to hear from you</h2>
-                    <p class="text-white col-lg-8 mx-auto">If you have any questions, suggestions, or inquiries, please don't
+                    <p class="text-white col-lg-8 mx-auto">If you have any questions, suggestions, or inquiries, please
+                        don't
                         hesitate to get in touch with us.</p>
 
                     <a href="#" class="btn btn-primary my-3">
@@ -567,7 +572,8 @@
             <div class="row text-light">
                 <div class="col-6 text-center fs-5">
                     <div class="mb-3">
-                        <i class="flaticon-location me-2"></i>Jalan Angsa Kotaraja, Abepura, Kota Jayapura, Papua, Indonesia.
+                        <i class="flaticon-location me-2"></i>Jalan Angsa Kotaraja, Abepura, Kota Jayapura, Papua,
+                        Indonesia.
                     </div>
                     <div class="mb-3">
                         <i class="flaticon-call me-2"></i><a href="#" class="link-light ">082125997625</a>
@@ -635,6 +641,25 @@
     <script src="assets/js/contact.form.js"></script>
     <!-- main js -->
     <script src="assets/js/main.js"></script>
+    <!-- google translate -->
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+        type="text/javascript"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: "id" }, 'google_translate_element');
+
+            var $googleDiv = $("#google_translate_element .skiptranslate");
+            var $googleDivChild = $("#google_translate_element .skiptranslate div");
+            $googleDivChild.next().remove();
+
+            $googleDiv.contents().filter(function () {
+                return this.nodeType === 3 && $.trim(this.nodeValue) !== '';
+            }).remove();
+        }
+    </script>
+
+
+
 
 </body>
 
