@@ -112,7 +112,8 @@
                                                 </li>
 
                                                 <li>
-                                                    <div class="btn" id="google_translate_element"></div>
+                                                    <div id="google_translate_element">
+                                                    </div>
                                                 </li>
                                             </ul> <!-- //.nav-menu -->
                                         </nav>
@@ -646,7 +647,7 @@
         type="text/javascript"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
-            new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: "id" }, 'google_translate_element');
+            new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: "id,en" }, 'google_translate_element');
 
             var $googleDiv = $("#google_translate_element .skiptranslate");
             var $googleDivChild = $("#google_translate_element .skiptranslate div");
@@ -658,8 +659,20 @@
         }
     </script>
 
-
-
+    <style type="text/css">
+        #google_translate_element select {
+            background-color: transparent;
+            color: #46A9FE;
+            border: none;
+            outline: none;
+            line-height: 1;
+            padding: 6px 8px;
+            font-size: 15px;
+            font-weight: 700;
+            display: inline-block;
+            cursor: pointer;
+        }
+    </style>
 
 </body>
 
